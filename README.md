@@ -1,4 +1,4 @@
-# 🏥 VitalGuard 2.0 — AI-Based Remote ICU Monitoring System
+# 🏥 VitalGuard  — AI-Based Remote ICU Monitoring System
 
 > **AI-Powered Predictive Triage & Real-Time Vital Signs Monitoring Platform for ICU Environments**
 
@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-**VitalGuard 2.0** is a full-stack AI-driven ICU monitoring system that continuously tracks patient vital signs, predicts health risk in real time using an XGBoost ML model, and triggers intelligent alerts — all through a modern React dashboard.
+**VitalGuard ** is a full-stack AI-driven ICU monitoring system that continuously tracks patient vital signs, predicts health risk in real time using an XGBoost ML model, and triggers intelligent alerts — all through a modern React dashboard.
 
 ---
 
